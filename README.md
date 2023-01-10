@@ -1,0 +1,1 @@
+Implement the method that takes an ArrayList of Strings, and sets the first and the last element to be "duo" and "tech" respectively. Assume the passed ArrayList will have at least 2 elements.
